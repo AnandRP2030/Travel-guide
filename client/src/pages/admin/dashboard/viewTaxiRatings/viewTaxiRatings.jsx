@@ -21,7 +21,7 @@ const TaxiReviews = () => {
 
   return (
     <div className="tw-container tw-mx-auto tw-p-4">
-      <h3 className="tw-text-center tw-mb-5"> Your Reviews</h3>
+      <h3 className="tw-text-center tw-mb-5"> Taxi Reviews</h3>
       <table className="tw-w-full tw-table-auto tw-border-collapse">
         <thead>
           <tr className="tw-bg-gray-200">
