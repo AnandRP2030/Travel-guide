@@ -66,8 +66,18 @@ Welcome to the **All-in-One Travel Guide**, a comprehensive platform to streamli
    cd client && npm install
    ```
 
-3. **Start the Server**:
+3. **Start the Front-end Server**:
    ```bash
+   npm start
+   ```
+
+4. **Install backend dependencies**:
+    ```bash
+   cd client && npm install
+   ```
+
+5. **Start the Back-end Server**:
+    ```bash
    npm start
    ```
 
